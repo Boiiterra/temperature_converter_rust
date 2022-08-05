@@ -1,5 +1,5 @@
 [package]
-name = "Fahr_Cels_rust"
+name = "temperature_converter_by_tb"
 version = "0.1.0"
 edition = "2021"
 
